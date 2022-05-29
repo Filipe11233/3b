@@ -45,7 +45,7 @@ tbody td {
 /* cores */
 
 thead, tfoot {
-  background: url(../imagens/2.jpg);
+  background: url(2.jpg);
   color: white;
   text-shadow: 1px 1px 1px blue;
 }
